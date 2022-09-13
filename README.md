@@ -1,3 +1,6 @@
 # Estrutura_Dados
 
-Exercícios de operações matemáticas em C++ (Educative.io)
+Exercícios em C++ (Educative.io & Disciplina Estrutura de Dados)
+
+Alguns códigos são executado no formato ./a.out
+
