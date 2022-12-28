@@ -18,7 +18,7 @@ int main()
 	*/
 
 	int anotherInt;
-	int *intPointer = new int;
+	int *intPointer = new int; // alocação dinâmica = em tempo de execução;
 	*intPointer = 50;
 	anotherInt = *intPointer;
 
